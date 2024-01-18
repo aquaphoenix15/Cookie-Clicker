@@ -1,3 +1,3 @@
 # Cookie Clicker
 
-Simple. Click the big cookie
+Simple. Click the big cookie.
